@@ -1,7 +1,7 @@
 {
-  "name": "app",
+  "name": "http2-module-server",
   "version": "0.2.0",
-  "description": "My awesome app created with RaveJS.",
+  "description": "http module server",
   "main": "app/main.js",
   "dependencies": {
     "rave": "~0.1",
